@@ -1,3 +1,3 @@
 # react-redux
-After download run comment
+After download run command
 npm install
